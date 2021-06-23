@@ -1,0 +1,11 @@
+﻿  MathLibrary.cpp
+C:\Users\xiaom\source\repos\NewLibrary1\NewLibrary1\MathLibrary.cpp(18,1): warning C4273: fibonacci_init: несовместимая компоновка dll
+C:\Users\xiaom\source\repos\NewLibrary1\NewLibrary1\MathLibrary.h(21,33): message : см. предыдущее определение "fibonacci_init"
+C:\Users\xiaom\source\repos\NewLibrary1\NewLibrary1\MathLibrary.cpp(27,1): warning C4273: fibonacci_next: несовместимая компоновка dll
+C:\Users\xiaom\source\repos\NewLibrary1\NewLibrary1\MathLibrary.h(27,33): message : см. предыдущее определение "fibonacci_next"
+C:\Users\xiaom\source\repos\NewLibrary1\NewLibrary1\MathLibrary.cpp(48,1): warning C4273: fibonacci_current: несовместимая компоновка dll
+C:\Users\xiaom\source\repos\NewLibrary1\NewLibrary1\MathLibrary.h(30,47): message : см. предыдущее определение "fibonacci_current"
+C:\Users\xiaom\source\repos\NewLibrary1\NewLibrary1\MathLibrary.cpp(54,1): warning C4273: fibonacci_index: несовместимая компоновка dll
+C:\Users\xiaom\source\repos\NewLibrary1\NewLibrary1\MathLibrary.h(33,37): message : см. предыдущее определение "fibonacci_index"
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\xiaom\source\repos\NewLibrary1\Debug\NewLibrary1.lib ш юс·хъЄ C:\Users\xiaom\source\repos\NewLibrary1\Debug\NewLibrary1.exp
+  NewLibrary1.vcxproj -> C:\Users\xiaom\source\repos\NewLibrary1\Debug\NewLibrary1.dll
